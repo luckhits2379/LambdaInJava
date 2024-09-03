@@ -7,7 +7,7 @@ public class Demo {
 	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 
-		// There are many ways we can implement functional interface
+		// There are several ways we can implement functional interface
 		// 1: Creating a clas which implements functional interface
 		// 2: providing implementation of anonymous inner class (class without name)
 		// 3: using lambda expression
